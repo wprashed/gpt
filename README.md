@@ -25,7 +25,7 @@ This project is a web-based application developed using Streamlit, Python, and O
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-repository-name.git
+   git clone https://github.com/wprashed/gpt.git
    ```
    
 2. Install the required Python dependencies:
