@@ -92,7 +92,3 @@ This project is a web-based application developed using Streamlit, Python, and O
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-For any questions or issues, feel free to reach out to the project maintainer!
