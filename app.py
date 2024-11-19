@@ -5,7 +5,7 @@ from docx import Document
 from io import BytesIO
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 
 # Define OpenAI response generator
