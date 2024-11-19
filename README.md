@@ -79,7 +79,6 @@ This project is a web-based application developed using Streamlit, Python, and O
 
 - `app.py`: Main application script.
 - `requirements.txt`: List of dependencies required to run the application.
-- `assets/`: Folder for any static files (e.g., images or icons).
 
 ## Requirements
 
